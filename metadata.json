@@ -1,0 +1,8 @@
+{
+  "name": "EczemaCoach SA",
+  "description": "A psychodermatology-focused coaching app integrating symptom tracking, mindfulness, and personalized supplements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
